@@ -2,6 +2,7 @@
 
 /* Services */
 
+var angular = require('./../lib/angular.shim.js')
 
 // Demonstrate how to register services
 // In this case it is a simple value service.

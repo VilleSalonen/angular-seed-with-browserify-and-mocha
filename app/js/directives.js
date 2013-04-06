@@ -2,6 +2,7 @@
 
 /* Directives */
 
+var angular = require('./../lib/angular.shim.js')
 
 angular.module('myApp.directives', []).
   directive('appVersion', ['version', function(version) {
