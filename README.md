@@ -1,5 +1,7 @@
 # angular-seed-with-browserify-and-mocha — the seed for AngularJS apps with Browserify and Mocha
 
+**DEPRECATED**
+
 For basic information about AngularJS and angular-seed, see https://github.com/angular/angular-seed.
 
 This project is a fork of the original with added support for requiring modules with Browserify and
